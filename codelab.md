@@ -66,3 +66,11 @@ func main(){
 <button>
   [ボタンリンク](https://zenn.dev/reerishun/articles/ac128b86e090195f59cd/)
 </button>
+
+
+### ボックス
+Positive
+: 何かお知らせを書きたい時のボックス
+
+Negative
+: 何か注意点などを書きたい時のボックス
