@@ -3,7 +3,7 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2020-10-10T00:58:43+09:00",
+  "updated": "2020-10-10T01:49:00+09:00",
   "id": "codelab-test-markdown",
   "duration": 5,
   "title": "CodeLabの紹介",
@@ -20,6 +20,6 @@
   "tags": [
     "web"
   ],
-  "feedback": "https://github.com/ree-rishun/codelab-test",
+  "feedback": "https://github.com/ree-rishun/codelab-zenn",
   "url": "codelab-test-markdown"
 }
