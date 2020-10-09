@@ -3,12 +3,12 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2020-10-10T02:15:05+09:00",
+  "updated": "2020-10-10T05:17:14+09:00",
   "id": "codelab-test-markdown",
   "duration": 15,
   "title": "CodeLabの紹介",
   "summary": "CodeLabの解説用",
-  "source": "codelab.md",
+  "source": ".\\codelab.md",
   "theme": "",
   "status": [
     "published"
