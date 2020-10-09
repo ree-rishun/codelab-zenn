@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-10-10T00:58:43+09:00",
+  "id": "codelab-test-markdown",
+  "duration": 5,
+  "title": "CodeLabの紹介",
+  "summary": "CodeLabの解説用",
+  "source": "codelab.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "codelab",
+    "markdown"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://github.com/ree-rishun/codelab-test",
+  "url": "codelab-test-markdown"
+}
